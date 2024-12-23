@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">603468115777-rmrtsspbvt1vu3kr35g2eonuhofiip9h.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">603468115777</string>
+    <string name="google_api_key" translatable="false">AIzaSyCL20ppw7Igkr8DNoqbvVA0OH6t8UqewW4</string>
+    <string name="google_app_id" translatable="false">1:603468115777:android:99932122305c43f6653bc0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCL20ppw7Igkr8DNoqbvVA0OH6t8UqewW4</string>
+    <string name="google_storage_bucket" translatable="false">holeb-ride-sharing-apps.appspot.com</string>
+    <string name="project_id" translatable="false">holeb-ride-sharing-apps</string>
+</resources>

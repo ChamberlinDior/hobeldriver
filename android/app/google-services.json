@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "603468115777",
+    "project_id": "holeb-ride-sharing-apps",
+    "storage_bucket": "holeb-ride-sharing-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603468115777:android:99932122305c43f6653bc0",
+        "android_client_info": {
+          "package_name": "com.holeb.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603468115777-ocf9emlo6j7u5mbrhpetjieed5h43mtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.holeb.driver",
+            "certificate_hash": "40b8e62aed5c2481c76902ecf08a1692447fd4b5"
+          }
+        },
+        {
+          "client_id": "603468115777-rmrtsspbvt1vu3kr35g2eonuhofiip9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL20ppw7Igkr8DNoqbvVA0OH6t8UqewW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103406736316808255382",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603468115777:android:c78898ace5063ae5653bc0",
+        "android_client_info": {
+          "package_name": "com.holeb.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603468115777-um7u2bmfkvaj5dadh8bijdqvm12mlc6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.holeb.rider",
+            "certificate_hash": "40b8e62aed5c2481c76902ecf08a1692447fd4b5"
+          }
+        },
+        {
+          "client_id": "603468115777-rmrtsspbvt1vu3kr35g2eonuhofiip9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL20ppw7Igkr8DNoqbvVA0OH6t8UqewW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103406736316808255382",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

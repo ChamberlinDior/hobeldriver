@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>603468115777-6psh1jo774adeeb2q9cun9gp9sn7gjhq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.603468115777-6psh1jo774adeeb2q9cun9gp9sn7gjhq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>603468115777-ocf9emlo6j7u5mbrhpetjieed5h43mtv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvhSCuwxclGpKqzdU3h4INQUrhCEFxVOU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>603468115777</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.holeb.driver</string>
+	<key>PROJECT_ID</key>
+	<string>holeb-ride-sharing-apps</string>
+	<key>STORAGE_BUCKET</key>
+	<string>holeb-ride-sharing-apps.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:603468115777:ios:7c76fe6846659434653bc0</string>
+</dict>
+</plist>
